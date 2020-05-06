@@ -1,0 +1,6 @@
+node_modules
+.env
+dicom
+tmpDicom
+anonimizedZips
+deanonimizedZips
